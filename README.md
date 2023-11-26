@@ -64,14 +64,14 @@
 <!-- Content Section -->
 <div Class="Content_Div" align="center">
 
-  <!-- Stats -->
+  <!-- Stats #1-->
   <span>
-    <a href="https://github.com/Adham-Kaseb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adham-Kaseb&theme=radical&border=7F3FBF&background=0D1117" alt="Adham's GitHub streak"/></a>
+    <a href="https://github.com/Adham-Kaseb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adham-Kaseb&theme=react&border=ED930E&background=0D1117"/></a>
   </span>
   
-  <!-- Stats -->
+  <!-- Stats #2-->
   <span>
-    <a href="https://github.com/Adham-Kaseb"> <img alt="Adhams's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Adham-Kaseb&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Adham-Kaseb"> <img alt="Adhams's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Adham-Kaseb&show_icons=true&count_private=true&theme=react&border_color=ED930E&bg_color=0D1117&title_color=ED930E&icon_color=ED930E" height="192px" width="49.5%"/></a>
   </span>
 
   <!-- Activity Tracker -->
@@ -81,7 +81,7 @@
   
   <!-- Most Used Languages -->
   <span>
-    <a href="https://github.com/Adham-Kaseb"><img alt="Adham's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Adham-Kaseb&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/> </a>
+    <a href="https://github.com/Adham-Kaseb"><img alt="Adham's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Adham-Kaseb&langs_count=8&layout=compact&theme=react&border_color=ED930E&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/> </a>
   </span>
 
   <!-- Trophies -->
