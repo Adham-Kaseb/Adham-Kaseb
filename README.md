@@ -13,29 +13,29 @@
 
 <br/>
 
-<!-- an img on the right of skills section-->
+<!-- an image on the right of the skills section-->
 <img align="right" width="300" src="https://github.com/Adham-Kaseb/Adham-Kaseb/blob/main/Super%20Duber%20Video%20About%20Me.gif"/>
 
+<h1 class="SubTitle">
+  🛠 Technologies & Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+</h1>
 
-## Technologies & Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+<p>I love building visually appealing and user-friendly interfaces, and I'm always eager to learn more about the ever-evolving web technologies.</p> <br>
+<p>Also, I'm currently diving deep into the realms of front-end web development with:</p>
 
-I love building visually appealing and user-friendly interfaces, and I'm always eager to learn more about the ever-evolving web technologies. <br>
-Also, I'm currently diving deep into the realms of front-end web development with:
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-- HTML
-- CSS
-- SASS
-- Bootstrap
-- JavaScript
+<h1 class="SubTitle">💬 Let's Connect</h1>
+<p>Have a question about my experiences with front-end technologies? Or maybe you'd like to chat about web development trends and best practices. Feel free to reach out anytime:</p>
 
-## 🚀 What I'm Up To
-
-As a constant learner, I'm actively honing my skills and working on exciting projects. You'll find a mix of personal experiments and collaborative efforts in my repositories.
-
-## 💬 Let's Connect
-
-Have a question about my experiences with front-end technologies? Or perhaps you want to chat about web development trends and best practices? Feel free to reach out anytime:
-
+<!-- Gmail -->
 📧 Email: adhamkasebssj4@gmail.com
 
 <!-- Facebook -->
@@ -53,56 +53,40 @@ Have a question about my experiences with front-end technologies? Or perhaps you
   <img src="https://img.shields.io/discord/1021234776075681903?style=for-the-badge&logo=discord&logoColor=white"/>
 </a> 
 
-
-
-### 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<br>
 <a href="https://komarev.com/ghpvc/?username=Adham-Kaseb&style=for-the-badge">
-<img src="https://komarev.com/ghpvc/?username=Adham-Kaseb&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=Adham-Kaseb&style=for-the-badge">
 </a>
 
 <br/>
 <hr/>
 <br/>
 
+<!-- Content Section -->
+<div Class="Content_Div" align="center">
 
-<div align="center">
-<p>
-<a href="https://github.com/Adham-Kaseb">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adham-Kaseb&theme=radical&border=7F3FBF&background=0D1117" alt="Adham's GitHub streak"/>
-</a>
-</p>
+  <!-- Stats -->
+  <span>
+    <a href="https://github.com/Adham-Kaseb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adham-Kaseb&theme=radical&border=7F3FBF&background=0D1117" alt="Adham's GitHub streak"/></a>
+  </span>
+  
+  <!-- Stats -->
+  <span>
+    <a href="https://github.com/Adham-Kaseb"> <img alt="Adhams's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Adham-Kaseb&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  </span>
 
-<p>
-<a href="https://github.com/Adham-Kaseb">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adham-Kaseb&theme=radical" alt="Adham's GitHub Contribution"/>
-</a>
-</p>
+  <!-- Activity Tracker -->
+  <span>
+    <a href="https://github.com/Adham-Kaseb"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adham-Kaseb&theme=radical" alt="Adham's GitHub Contribution"/></a>
+  </span>
+  
+  <!-- Most Used Languages -->
+  <span>
+    <a href="https://github.com/Adham-Kaseb"><img alt="Adham's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Adham-Kaseb&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/> </a>
+  </span>
+
+  <!-- Trophies -->
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=Adham-Kaseb&theme=onedark&column=3&margin-w=15&margin-h=15" alt="jeremiahseun"/>
+  </p>
+  
 </div>
-
-<a> 
-<a 
-href="https://github.com/Adham-Kaseb"> <img 
-alt="Adhams's Github Stats" 
-src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Adham-Kaseb&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" 
-height="192px" 
-width="49.5%"/>
-</a>
-<a href="https://github.com/Eslam405">
-<img alt="Adham's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Adham-Kaseb&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/> 
-</a>
-<span>
-<!-- Trofies Section  -->
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Adham-Kaseb&theme=onedark&column=3&margin-w=15&margin-h=15" alt="jeremiahseun"/>
-</span>
-<br/>
-</a>
