@@ -66,27 +66,27 @@
 
   <!-- Stats #1-->
   <span>
-    <a href="https://github.com/Adham-Kaseb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adham-Kaseb&theme=react&border=ED930E&background=0D1117"/></a>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adham-Kaseb&theme=dark&border=ED930E"/>
   </span>
   
   <!-- Stats #2-->
   <span>
-    <a href="https://github.com/Adham-Kaseb"> <img alt="Adhams's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Adham-Kaseb&show_icons=true&count_private=true&theme=react&border_color=ED930E&bg_color=0D1117&title_color=ED930E&icon_color=ED930E" height="192px" width="49.5%"/></a>
+   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Adham-Kaseb&show_icons=true&count_private=true&theme=react&border_color=ED930E&bg_color=20232A&title_color=ED930E&icon_color=ED930E" height="192px" width="49.5%"/>
   </span>
 
   <!-- Activity Tracker -->
   <span>
-    <a href="https://github.com/Adham-Kaseb"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adham-Kaseb&theme=radical" alt="Adham's GitHub Contribution"/></a>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adham-Kaseb&theme=react&background=20232A&title_color=ED930E" width="100%"/>
   </span>
   
   <!-- Most Used Languages -->
   <span>
-    <a href="https://github.com/Adham-Kaseb"><img alt="Adham's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Adham-Kaseb&langs_count=8&layout=compact&theme=react&border_color=ED930E&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/> </a>
+   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Adham-Kaseb&langs_count=8&layout=compact&theme=react&border_color=ED930E&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </span>
 
   <!-- Trophies -->
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=Adham-Kaseb&theme=onedark&column=3&margin-w=15&margin-h=15" alt="jeremiahseun"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Adham-Kaseb&theme=onedark&column=3&margin-w=15&margin-h=15"/>
   </p>
   
 </div>
