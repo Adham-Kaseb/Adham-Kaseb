@@ -14,12 +14,13 @@
 <br/>
 
 <!-- an img on the right of skills section-->
-<img align="right" width="300" src=""/>
+<img align="right" width="300" src="https://github.com/Adham-Kaseb/Adham-Kaseb/blob/main/Super%20Duber%20Video%20About%20Me.gif"/>
 
 
 ## Technologies & Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-I'm currently diving deep into the realms of front-end web development. Ask me about:
+I love building visually appealing and user-friendly interfaces, and I'm always eager to learn more about the ever-evolving web technologies.
+Also, I'm currently diving deep into the realms of front-end web development with:
 
 - HTML
 - CSS
@@ -27,7 +28,6 @@ I'm currently diving deep into the realms of front-end web development. Ask me a
 - Bootstrap
 - JavaScript
 
-I love building visually appealing and user-friendly interfaces, and I'm always eager to learn more about the ever-evolving web technologies.
 
 ## 🚀 What I'm Up To
 
