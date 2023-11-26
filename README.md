@@ -83,7 +83,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Adham-Kaseb&theme=onedark&column=8&margin-w=15&margin-h=15"/>
   </p>
 
-    <!-- Most Used Languages -->
   <span>
    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Adham-Kaseb&langs_count=8&layout=compact&theme=react&border_color=ED930E&bg_color=0D1117&title_color=ED930E&icon_color=ED930E" height="192px" width="100%"/>
   </span>
