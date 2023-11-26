@@ -19,7 +19,7 @@
 
 ## Technologies & Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-I love building visually appealing and user-friendly interfaces, and I'm always eager to learn more about the ever-evolving web technologies.
+I love building visually appealing and user-friendly interfaces, and I'm always eager to learn more about the ever-evolving web technologies. <br>
 Also, I'm currently diving deep into the realms of front-end web development with:
 
 - HTML
@@ -27,7 +27,6 @@ Also, I'm currently diving deep into the realms of front-end web development wit
 - SASS
 - Bootstrap
 - JavaScript
-
 
 ## 🚀 What I'm Up To
 
@@ -39,17 +38,22 @@ Have a question about my experiences with front-end technologies? Or perhaps you
 
 📧 Email: adhamkasebssj4@gmail.com
 
-<p>
+<!-- Facebook -->
 <a href="https://www.facebook.com/adham.kaseb.54/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-0077B5?&style=for-the-badge&logo=facebook&logoColor=white" alt="Eslam"  />
-</a> 
+  <img src="https://img.shields.io/badge/Facebook-0077B5?&style=for-the-badge&logo=facebook&logoColor=white" alt="Eslam"  />
+</a>
+
+<!-- Telegram -->
 <a href="https://t.me/AdhamTelegramXLR8" target="_blank">
-<img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
 </a> 
+
+<!-- Discord -->
 <a href="https://discord.com/users/875143252636995604" target="_blank">
-<img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
+  <img src="https://img.shields.io/discord/1021234776075681903?style=for-the-badge&logo=discord&logoColor=white"/>
 </a> 
-</p>
+
+
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
