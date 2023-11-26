@@ -49,7 +49,7 @@ Have a question about my experiences with front-end technologies? Or perhaps you
 </a> 
 
 <!-- Discord -->
-<a href="https://discord.com/users/875143252636995604" target="_blank">
+<a href="https://discord.com/users/1021234776075681903" target="_blank">
   <img src="https://img.shields.io/discord/1021234776075681903?style=for-the-badge&logo=discord&logoColor=white"/>
 </a> 
 
