@@ -103,7 +103,7 @@
 
   <!-- Stats #1-->
   <span>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adham-Kaseb&theme=dark&border=ED930E" width="49.5%" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adham-Kaseb&theme=dark&border=ED930E" width="49.5%"/>
   </span>
   
   <!-- Stats #2-->
@@ -118,11 +118,11 @@
   
   <!-- Trophies -->
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=Adham-Kaseb&theme=dark&column=8&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Adham-Kaseb&theme=dark&column=8"/>
   </p>
 
   <span>
-   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Adham-Kaseb&langs_count=8&layout=compact&theme=dark&border_color=ED930E&bg_color=0D1117&title_color=ED930E&icon_color=ED930E" height="192px" width="100%"/>
+   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Adham-Kaseb&langs_count=8&layout=compact&theme=dark&border_color=ED930E&bg_color=0D1117&title_color=ED930E&icon_color=ED930E" width="100%"/>
   </span>
   
 </div>
