@@ -62,7 +62,7 @@
 
 <!-- Content Section -->
 <div Class="Content_Div" align="center">
-
+  <!-- Projects Table -->
   <span>
     <h1>Open source projects</h1>
     <table>
@@ -77,21 +77,21 @@
       </thead>
       <tbody>
         <tr>
-          <td><a href="https://github.com/Adham-Kaseb/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+          <td><a href="https://github.com/Adham-Kaseb/react-simple-pull-to-refresh"><b>Project #1</b></a></td>
           <td><img alt="Stars" src="https://img.shields.io/github/stars/Adham-Kaseb/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/Adham-Kaseb/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Issues" src="https://img.shields.io/github/issues/Adham-Kaseb/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Adham-Kaseb/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
         </tr>
         <tr>
-          <td><a href="https://github.com/Adham-Kaseb/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+          <td><a href="https://github.com/Adham-Kaseb/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Project #2</b></a></td>
           <td><img alt="Stars" src="https://img.shields.io/github/stars/Adham-Kaseb/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/Adham-Kaseb/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Issues" src="https://img.shields.io/github/issues/Adham-Kaseb/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Adham-Kaseb/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
         </tr>
         <tr>
-          <td><a href="https://github.com/Adham-Kaseb/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+          <td><a href="https://github.com/Adham-Kaseb/nodejs-typescript-express-apollo-graphql-starter"><b>Project #3</b></a></td>
           <td><img alt="Stars" src="https://img.shields.io/github/stars/Adham-Kaseb/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Forks" src="https://img.shields.io/github/forks/Adham-Kaseb/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Issues" src="https://img.shields.io/github/issues/Adham-Kaseb/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
@@ -102,27 +102,27 @@
   </span>
 
   <!-- Stats #1-->
-  <span>
+  <span width='45%'>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adham-Kaseb&theme=dark&border=ED930E"/>
   </span>
   
   <!-- Stats #2-->
-  <span>
-   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Adham-Kaseb&show_icons=true&count_private=true&theme=react&border_color=ED930E&bg_color=20232A&title_color=ED930E&icon_color=ED930E" height="192px" width="49.5%"/>
+  <span width='45%'>
+   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Adham-Kaseb&show_icons=true&count_private=true&theme=dark&border_color=ED930E&bg_color=151515&title_color=ED930E&icon_color=ED930E"  width="49.5%"/>
   </span>
 
   <!-- Activity Tracker -->
   <span>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adham-Kaseb&theme=react&background=20232A&color=ED930E" width="100%"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adham-Kaseb&theme=gruvbox&background=20232A&color=ED930E" width="100%"/>
   </span>
   
   <!-- Trophies -->
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=Adham-Kaseb&theme=onedark&column=8&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Adham-Kaseb&theme=dark&column=8&margin-w=15&margin-h=15"/>
   </p>
 
   <span>
-   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Adham-Kaseb&langs_count=8&layout=compact&theme=react&border_color=ED930E&bg_color=0D1117&title_color=ED930E&icon_color=ED930E" height="192px" width="100%"/>
+   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Adham-Kaseb&langs_count=8&layout=compact&theme=dark&border_color=ED930E&bg_color=0D1117&title_color=ED930E&icon_color=ED930E" height="192px" width="100%"/>
   </span>
   
 </div>
