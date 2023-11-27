@@ -3,7 +3,7 @@
 </h3>
 
 <div class="welcome_message">
-  <h1 align="center">Hello there, fellow developer! I'm Adham, <br> I'm thrilled to have you here. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1> 
+  <h1 align="center">Hello there, I'm Adham, I'm thrilled to have you here. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1> 
 </div>
 
 <!-- typing-svg Component -->
