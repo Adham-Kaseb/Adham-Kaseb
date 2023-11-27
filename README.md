@@ -102,8 +102,8 @@
   </span>
 
   <!-- Stats #1-->
-  <span width='45%'>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adham-Kaseb&theme=dark&border=ED930E"/>
+  <span>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adham-Kaseb&theme=dark&border=ED930E" width="49.5%" />
   </span>
   
   <!-- Stats #2-->
