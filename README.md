@@ -20,7 +20,7 @@
   Technologies & Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 </h1>
 
-<p>I love building visually appealing and user-friendly interfaces, and I'm always eager to learn more about the ever-evolving web technologies.</p> <br>
+<p>I love building user-friendly interfaces, and I'm always eager to learn more about the ever-evolving web technologies.</p> <br>
 <p>Also, I'm currently diving deep into the realms of front-end web development with:</p>
 
 ![HTML5](/html.svg)
