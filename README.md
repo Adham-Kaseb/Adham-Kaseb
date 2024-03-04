@@ -35,7 +35,7 @@
 <p>Have a question about my experiences with front-end technologies? Or maybe you'd like to chat about web development trends and best practices. Feel free to reach out anytime:</p>
 
 <!-- Gmail -->
-📧 Email: adhamsgithub23@gmail.com
+📧 Email: adhamkasebssj4@gmail.com
 
 <!-- Facebook -->
 <a href="https://www.facebook.com/adham.kaseb.54/" target="_blank">
