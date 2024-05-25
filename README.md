@@ -111,7 +111,6 @@
           <td><img alt="Issues" src="https://img.shields.io/github/issues/Adham-Kaseb/Eng-Ahmad-Hassan?style=flat-square&labelColor=343b41"/></td>
           <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Adham-Kaseb/Eng-Ahmad-Hassan?style=flat-square&labelColor=343b41"/></td>
         </tr>
-
       </tbody>
     </table>
   </span>
