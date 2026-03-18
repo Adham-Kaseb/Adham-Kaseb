@@ -1,6 +1,6 @@
-<h1 align="center">مرحباً، أنا أدهم كاسب 👋</h1>
+<h1 align="center">يا أهلاً! أنا أدهم كاسب 👋</h1>
 
-<h3 align="center">مطور واجهات أمامية (Front-End Developer) شغوف بتحويل الأفكار إلى تجارب بصرية مبهرة 🚀</h3>
+<h3 align="center">مطور واجهات أمامية (Front-End Developer) بحب أدمج بين الكود النضيف والتصميم اللي يخطف العين 🚀</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -10,16 +10,16 @@
 
 ---
 
-### 👨‍💻 نبذة عني:
+### 👨‍💻 مين هو أدهم؟
 
-* 🎯 **التركيز الحالي:** بناء واجهات مستخدم تفاعلية، سريعة، ومتجاوبة مع جميع الشاشات.
-* 🌱 **أتعلم حالياً:** أستكشف أحدث تقنيات الـ Front-End وأطور مهاراتي في `TypeScript` و إطارات العمل الحديثة.
-* 💡 **فلسفتي:** الكود الجيد ليس فقط الكود الذي يعمل، بل الكود الذي يسهل قراءته وتطويره، والموقع الجيد هو الذي يمنح المستخدم تجربة سلسة وممتعة.
-* 📫 **كيف تصل إلي:** [ضع بريدك الإلكتروني هنا] أو تواصل معي عبر الروابط بالأسفل.
+* 🎯 **التركيز الحالي:** ببني واجهات مستخدم (UIs) سريعة، تفاعلية، ومريحة جداً للمستخدم على أي مقاس شاشة.
+* 🌱 **تطوير مستمر:** دايماً بحدث مهاراتي في الـ Front-End، ومركز حالياً على إتقان `TypeScript` وأحدث تقنيات الويب.
+* 💡 **طريقتي في الشغل:** بالنسبة لي، الكود الصح مش بس إنه "يشتغل".. الكود لازم يكون منظم (Clean Code)، سهل إن تيم يشتغل عليه بعدي، وبيطلع منتج يدي تجربة مستخدم (UX) ممتازة.
+* 📫 **عشان نتواصل:** ابعتلي على [ضيف إيميلك هنا]، أو كلمني من خلال الروابط اللي تحت.
 
 ---
 
-### 🛠️ صندوق أدواتي (Tech Stack):
+### 🛠️ التقنيات اللي بشتغل بيها (Tech Stack):
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 إحصائياتي على GitHub:
+### 📊 نشاطي على جيت هاب:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adham-Kaseb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Adham's GitHub stats" />
@@ -54,7 +54,7 @@
 
 ---
 
-### 🌐 تواصل معي:
+### 🌐 خلينا على تواصل:
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
@@ -63,7 +63,7 @@
   <a href="https://twitter.com/Adham_KasebSSj4" target="_blank">
     <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
   </a>
-  </p>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom banner" />
