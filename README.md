@@ -34,24 +34,6 @@ I utilize a modern tech stack to build resilient applications.
 
 ---
 
-## 🚀 Featured Engineering
-
-*(Highlight your top 2 projects here. This shows recruiters exactly what to look at).*
-
-### 1. [WebCodex](https://github.com/Adham-Kaseb/WebCodex)
-> A robust web application built with **TypeScript**. 
-> - **Architecture:** Implemented scalable modular patterns for maintainability.
-> - **Tech:** TypeScript, [Add Framework here], [Add Styling here].
-> - **Link:** [Live Demo](YOUR_LIVE_LINK) | [Source Code](https://github.com/Adham-Kaseb/WebCodex)
-
-### 2. [LeadSync](https://github.com/Adham-Kaseb/LeadSync)
-> An interactive platform focused on dynamic data handling.
-> - **Architecture:** Optimized state management and smooth UI transitions.
-> - **Tech:** JavaScript, [Add tools here].
-> - **Link:** [Live Demo](YOUR_LIVE_LINK) | [Source Code](https://github.com/Adham-Kaseb/LeadSync)
-
----
-
 ## 📊 Development Metrics
 
 <div align="center">
